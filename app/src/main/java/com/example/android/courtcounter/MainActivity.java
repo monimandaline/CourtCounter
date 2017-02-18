@@ -14,10 +14,6 @@ import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.TextView;
 
-import static com.example.android.courtcounter.R.id.btn_team_a_brown;
-import static com.example.android.courtcounter.R.id.btn_team_b_pink;
-
-
 public class MainActivity extends AppCompatActivity {
 
 
